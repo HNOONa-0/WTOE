@@ -42,3 +42,5 @@ This is due to many reasons, two of which:
 1) The dataset is small and unfortunately, ****Twitter API has changed and is now a lot harder to scrape tweets****, it's not easy to scrape more tweets.
 
 2) The quality of the dataset itself. This depends on what query we used to scrape tweets, improving the query we use could go along way.
+
+Ofcourse, there are many models we could use, I wanted to showcase how **Word2Vec model** could go about solving this problem
